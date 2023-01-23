@@ -41,7 +41,7 @@ REM ======================================
 REM Opzioni robocopy
 REM ======================================
 
-Set Opt1=/MIR /FFT /R:3 /W:10 /Z /NP /NDL /LOG:C:\LOG\LOG_%mydate%.txt		
+Set Opt1=/FFT /R:3 /W:10 /Z /NP /NDL /LOG:C:\LOG\LOG_%mydate%.txt		
 
 REM ======================================
 REM Esegui RoboCopy
